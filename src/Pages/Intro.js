@@ -10,8 +10,8 @@ export default function Introduction() {
             <ul className="order__list">
                 <li className="ms-5">First we'll talk about Uncontrolled form <span><Link to="/docs/fPage">here</Link></span></li>
                 <li className="ms-5">Then we'll talk about Controlled forms <span><Link to="/docs/sPage">here</Link></span></li>
-                <li className="ms-5">And we'll brush out with Qualifications <span><Link to="/docs/tPage">here</Link></span></li>
-                <li className="ms-5">Then finally Validations <span><Link to="/docs/fPage">here</Link></span></li>
+                <li className="ms-5">And we'll brush out with Onboarding <span><Link to="/docs/tPage">here</Link></span></li>
+                <li className="ms-5">Then finally Counting <span><Link to="/docs/dPage">here</Link></span></li>
             </ul>
             <h5 className="mt-5"><b className="me-2">So what are you waiting for, Let's get </b><span>
                 <Link to="/docs/fPage" className="btn btn-dark">Going <i className="fa-solid fa-angle-right"></i><i className="fa-solid fa-angle-right"></i></Link>

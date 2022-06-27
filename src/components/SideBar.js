@@ -18,7 +18,7 @@ export default function SideBar() {
                         <Link to="/docs/tPage" className="btn text-white">Onboarding</Link>
                     </li>
                     <li className="mt-4">
-                        <Link to="/docs/fPage" className="btn text-white">Validation</Link>
+                        <Link to="/docs/dPage" className="btn text-white">Counter</Link>
                     </li>
                 </ul>
             </div>
